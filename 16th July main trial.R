@@ -1,0 +1,5 @@
+library(datasets)
+data(mtcars)
+class(mtcars)
+dim(mtcars)
+summary(mtcars)
